@@ -1,4 +1,18 @@
 Some basic tho=ings need to be covered first and foremost -
 1. Network Theory (proper command on kvl kcl, mesh,loop analysis, network theorems,ac and dc etc.)
 2. Basic Electronic Devices (diodes, transistors, bjt, mosfet, op amps, etc)
-3. 
+3. Digital Electronics
+(solve gate level problems then revise with nptel lecs)
+4. Analog Electronics 
+(sources - playlist Electronics 1 from Behzad Razavi for theory and gate level numericals for practice)
+5. C language
+6. MATLAB
+7. HDL -> Verilog
+
+Then you can choose a subdomain form -
+VLSI Design
+Embedded Systems
+COmmunications
+Signal processing
+Wireless communications
+RF and Microwave
